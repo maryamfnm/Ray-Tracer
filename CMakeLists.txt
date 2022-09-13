@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Assignment0)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Assignment0 main.cpp Color.cpp Color.h ViewingWindow.cpp ViewingWindow.h FileManagement.cpp FileManagement.h SceneVariables/Eye.cpp SceneVariables/Eye.h SceneVariables/ViewDir.cpp SceneVariables/ViewDir.h SceneVariables/Updir.cpp SceneVariables/Updir.h SceneVariables/Vfov.cpp SceneVariables/Vfov.h SceneVariables/Imsize.cpp SceneVariables/Imsize.h SceneVariables/Bkgcolor.cpp SceneVariables/Bkgcolor.h SceneVariables/Mtcolor.cpp SceneVariables/Mtcolor.h SceneVariables/Sphere.cpp SceneVariables/Sphere.h SceneVariables/Ellipsoid.cpp SceneVariables/Ellipsoid.h Helper/Helper.cpp Helper/Helper.h RayTracer/Ray.cpp RayTracer/Ray.h SceneVariables/Light.cpp SceneVariables/Light.h SceneVariables/Objects.cpp SceneVariables/Objects.h Vec3.cpp Vec3.h SceneVariables/Triangle.cpp SceneVariables/Triangle.h SceneVariables/Vertex.cpp SceneVariables/Vertex.h SceneVariables/Vn.cpp SceneVariables/Vn.h SceneVariables/Vt.cpp SceneVariables/Vt.h SceneVariables/Texture.cpp SceneVariables/Texture.h)

@@ -1,0 +1,172 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Color.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/FileManagement.h
+string
+-
+vector
+-
+SceneVariables/Vfov.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vfov.h
+SceneVariables/ViewDir.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/ViewDir.h
+SceneVariables/Updir.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Updir.h
+SceneVariables/Eye.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Eye.h
+SceneVariables/Imsize.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Imsize.h
+SceneVariables/Sphere.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Sphere.h
+SceneVariables/Bkgcolor.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Bkgcolor.h
+SceneVariables/Mtcolor.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Mtcolor.h
+SceneVariables/Ellipsoid.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Ellipsoid.h
+SceneVariables/Light.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Light.h
+SceneVariables/Triangle.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Triangle.h
+SceneVariables/Vertex.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vertex.h
+SceneVariables/Vn.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vn.h
+SceneVariables/Vt.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vt.h
+SceneVariables/Texture.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Texture.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Helper/Helper.h
+vector
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/RayTracer/Ray.cpp
+Ray.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/RayTracer/Ray.h
+../Helper/Helper.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Helper/Helper.h
+../SceneVariables/Bkgcolor.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Bkgcolor.h
+../SceneVariables/Objects.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Objects.h
+../SceneVariables/ViewDir.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/ViewDir.h
+../FileManagement.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/FileManagement.h
+cmath
+-
+stack
+-
+iostream
+-
+stdio.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/RayTracer/stdio.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/RayTracer/Ray.h
+vector
+-
+stack
+-
+../SceneVariables/Eye.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Eye.h
+../SceneVariables/Sphere.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Sphere.h
+../SceneVariables/Bkgcolor.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Bkgcolor.h
+../SceneVariables/Ellipsoid.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Ellipsoid.h
+../SceneVariables/Light.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Light.h
+../SceneVariables/Objects.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Objects.h
+../SceneVariables/Mtcolor.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Mtcolor.h
+../Color.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Color.h
+../Vec3.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h
+../SceneVariables/ViewDir.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/ViewDir.h
+../SceneVariables/Triangle.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Triangle.h
+../SceneVariables/Vn.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vn.h
+../SceneVariables/Vt.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vt.h
+../FileManagement.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/FileManagement.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Bkgcolor.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Ellipsoid.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Eye.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Imsize.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Light.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Mtcolor.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Objects.h
+Sphere.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Sphere.h
+Ellipsoid.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Ellipsoid.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Sphere.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Texture.h
+../Vec3.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Triangle.h
+../Vec3.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h
+Vertex.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vertex.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Updir.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vertex.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vfov.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/ViewDir.h
+string
+-
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vn.h
+../Vec3.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vt.h
+../Vec3.h
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h
+
+/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h
+

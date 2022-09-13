@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment0">
+				<Option output="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug/Assignment0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment0/fast">
+				<Option output="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug/Assignment0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MaryamForootaninia/Desktop/Computer\ Graphics/Assignment0\ 3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Color.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Color.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/FileManagement.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/FileManagement.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Helper/Helper.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Helper/Helper.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/RayTracer/Ray.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/RayTracer/Ray.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Bkgcolor.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Bkgcolor.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Ellipsoid.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Ellipsoid.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Eye.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Eye.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Imsize.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Imsize.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Light.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Light.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Mtcolor.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Mtcolor.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Objects.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Objects.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Sphere.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Sphere.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Texture.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Texture.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Triangle.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Triangle.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Updir.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Updir.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vertex.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vertex.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vfov.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vfov.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/ViewDir.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/ViewDir.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vn.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vn.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vt.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/SceneVariables/Vt.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/Vec3.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/ViewingWindow.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/ViewingWindow.h">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/main.cpp">
+			<Option target="Assignment0"/>
+		</Unit>
+		<Unit filename="/Users/MaryamForootaninia/Desktop/Computer Graphics/Assignment0 3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

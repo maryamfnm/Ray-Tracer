@@ -1,0 +1,29 @@
+Assignment 0, Maryam Forootaninia , email : foroo002@umn.edu
+************************************************************
+
+************* RUN THE PROGRAM *************
+Input: The user has to run the main() program and then enter the name of input file with .txt format
+********************************************
+
+Output: The program will generate the .ppm output file including the following format:
+P3
+# any comments you want to include
+width height
+255
+r(0,0) g(0,0) b(0,0) r(1,0) g(1,0) b(1,0) r(2,0) g(2,0) b(2,0) ...
+*************************************************************
+
+Description:
+You can run  the program by running the main() function. The program reads an image description (consisting of the image height and image width) from a text file
+and generates an output image. The name of the output image should be automatically defined to be the same as
+the name of the input file, except using the suffix .ppm instead of the suffix .txt.
+
+The output image has some texture as being implemented in the code such that for the pixels that are
+divisors of 7, the pixel color is set to green and for the rest of the pixels, the color is red.
+This will generate an image with polka dot texture.
+
+The Color class includes the r,g,b variable for each pixel
+*************************************************************
+
+Error Handling: Different failure scenarios have been included in the code as described in the
+description of the assignment in order to gracefully handles unexpected input.
