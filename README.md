@@ -1,2 +1,2 @@
 # Ray-Tracer
-![Image](https://user-images.githubusercontent.com/67089327/189917928-7d747734-2267-48f7-a2e8-a7b15c11a461.jpg)
+![Image](https://user-images.githubusercontent.com/67089327/189918139-1f585375-f98d-4de6-8f0c-bce68035e767.jpeg)
