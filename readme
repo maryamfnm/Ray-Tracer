@@ -26,3 +26,6 @@ The Color class includes the r,g,b variable for each pixel
 
 Error Handling: Different failure scenarios have been included in the code as described in the
 description of the assignment in order to gracefully handles unexpected input.
+
+
+![alt text](https://github.com/maryamfnm/Ray-Tracer/blob/main/Scene-1.ppm)
